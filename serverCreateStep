@@ -1,0 +1,19 @@
+1. Create something.js
+2. Open Terminal
+3. Cammands 
+    1. npm init
+    2. package name: something
+    3. Enter
+    4. Description: something || Optional
+    5. entry point: Enter
+    6. test command: optional
+    7. git repository: optional
+    8. keywords: optional
+    9. author: optional
+   10. license: Enter
+   11. this ok?: Enter
+4. Create package.json
+5. Open terminal
+6. Run Cammand
+    yarn add express
+
